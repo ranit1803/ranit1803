@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranit Santra</h1>
 <h3 align="center">From an engineering graduate to a future product builder | Learning backend development with Golang, Java & SQL | Exploring REST APIs, Python, IoT, computer networks, and more | Driven by clarity and real-world impact</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranit1803&label=Profile%20views&color=0e75b6&style=flat" alt="ranit1803" /> </p>
+
 
 - 🌱 I’m currently learning **Golang (Gin), Java (OOPs & DSA), SQL, Power BI, Excel, and Docker**
 
